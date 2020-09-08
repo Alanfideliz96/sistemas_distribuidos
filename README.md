@@ -1,2 +1,2 @@
-# sistemas_distribuidos
+# Sistemas Distribuidos
 Esse projeto está sendo desenvolvido junto com a Matéria sistemas distribuídos com o Professor Plotze, na UNAERP
